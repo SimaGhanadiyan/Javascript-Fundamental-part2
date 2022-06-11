@@ -1,2 +1,2 @@
 # Javascript-Fundamental-part2
-Coding challenge #1
+Coding challenge #2
